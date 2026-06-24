@@ -4,8 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Mahmoud-1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Mahmoud-1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
+
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
