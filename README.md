@@ -1,12 +1,20 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+ 
+<p align="center">
+  <img src="https://i.postimg.cc/tCdxjS3s/i-m-Mohamed-mahmoud-gif.gif" alt="Mohamed Mahmoud" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Mahmoud-1&style=for-the-badge&color=8A2BE2&label=👀+PROFILE+VIEWS" />
 </p>
 
+<h1 align="center">Mohamed Mahmoud</h1>
+
+<h3 align="center">
+AI Engineer • Machine Learning • Problem Solving
+</h3>
 
 
 </details>
@@ -64,7 +72,11 @@
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat\&logo=capcut\&logoColor=white)
 ![Photography](https://img.shields.io/badge/Photography-6A5ACD?style=flat)
 
+
+
 ```dart
+// Hi, I'm Mohamed Mahmoud 👋
+// AI Engineer | Machine Learning | Problem Solving <---/>
 // tools_I_use organized
 
 class About extends Me {
