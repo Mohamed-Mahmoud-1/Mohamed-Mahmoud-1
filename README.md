@@ -3,7 +3,7 @@
 
  
 <p align="center">
-  <img src="https://i.postimg.cc/tCdxjS3s/i-m-Mohamed-mahmoud-gif.gif" alt="Mohamed Mahmoud" width="100%" />
+  <img src="https://i.postimg.cc/tCdxjS3s/i-m-Mohamed-mahmoud-gif.gif" alt="Mohamed Mahmoud" width="40%" />
 </p>
 
 <p align="center">
